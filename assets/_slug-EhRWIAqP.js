@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-Dbowsz56.js";import{t}from"./index-DJOKExCg.js";import{t as n}from"./SitePage-CrgWG8Gx.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`zona:`+e})}export{i as component};
