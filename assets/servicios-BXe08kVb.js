@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-B2DL_M7o.js";import{t}from"./SitePage-BtTDLiZo.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`servicios`});export{r as component};

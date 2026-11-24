@@ -1,1 +1,0 @@
-import{m as e}from"./bloques-Dbowsz56.js";import{t}from"./SitePage-CrgWG8Gx.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`inicio`});export{r as component};
